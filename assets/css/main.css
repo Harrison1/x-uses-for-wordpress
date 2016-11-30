@@ -1,0 +1,76 @@
+body {
+/*	background-image: url('../images/plus-bg-2.png');
+	background-repeat: repeat;*/
+}
+
+.row {
+	text-align: center;
+}
+
+.carousel {
+    left: 50%;
+    position: relative;
+    width: 1300px;
+    margin-left: -650px;
+    overflow: hidden;
+    height: 600px;
+    margin-top: -90px;
+}
+
+.carousel .item {
+	width: 550px;
+	height: 400px;
+	background: white;
+	background-size: cover;
+	background-position: 50% 50%;
+	vertical-align: middle;
+	line-height: 150px;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	text-align: center;
+    padding-top: 15px;
+    border-radius: 20px;
+}
+
+.controls {
+	position: absolute;
+	top: 800px;
+	left: 50%;
+	width: 150px;
+	margin-left: -75px;
+}
+
+.controls a {
+	display: block;
+}
+
+.controls .previous {
+	float: left;
+}
+
+.controls .next {
+	float: right;
+}
+
+.carouseltwo {
+    left: 50%;
+    position: relative;
+    width: 1300px;
+    margin-left: -650px;
+    overflow: hidden;
+    height: 600px;
+    margin-top: -90px;
+}
+
+.carouseltwo .itemtwo {
+	width: 550px;
+	height: 400px;
+	background: white;
+	background-size: cover;
+	background-position: 50% 50%;
+	vertical-align: middle;
+	line-height: 150px;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	text-align: center;
+    padding-top: 15px;
+    border-radius: 20px;
+}
