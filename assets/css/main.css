@@ -1,6 +1,18 @@
 body {
-/*	background-image: url('../images/plus-bg-2.png');
-	background-repeat: repeat;*/
+	background-image: url('../images/plus-bg-2.png');
+	background-repeat: repeat;
+}
+
+p {
+	font-size: 16px;
+}
+
+.intro-text {
+	font-size: 18px;
+}
+
+.container {
+	background: white;
 }
 
 .row {
